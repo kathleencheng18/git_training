@@ -3,3 +3,4 @@ Other user editing...
 Other user editing again
 Updated Alice.
 changed Alice in branch change_alice.
+some more text
