@@ -6,3 +6,6 @@ changed Alice in branch change_alice.
 some more text
 Other user editing...
 edited by master
+
+interactive rebase
+more text
